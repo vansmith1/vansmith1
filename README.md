@@ -1,16 +1,18 @@
-## Hi there 👋
+```
+Hello! 
+I'm Vanessa. Studying Software Engineering @ RMIT University, Melbourne AUS.
+I have experience working with Python, Java, JavaScript and React.
+```
 
-<!--
-**vansmith1/vansmith1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### current work:
+- [Jeremy Smith Organ Building]([https://github.com/vansmith1/organ-building-information-website]) ▸ Building a website for my Dad's organ building business
 
-Here are some ideas to get you started:
+### projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Venue Vendors]([https://github.com/vansmith1/Venue-Vendors]) ▸ Venue Vendors Application allows hirers to browse venues, make bookings, upload compliance documents, manage their bookings, etc. Vendors can create and manage venues, review applicants and bookings, assess compliance documents and approve or reject bookings.
+
+- [Minecraft Village Generator]([https://github.com/vansmith1/REPO-NAME](https://github.com/vansmith1/minecraft-village-generator)) ▸ Minecraft village generator using BFS pathfinding and procedural generation techniques in C++
+
+### contact
+
+[vanessasmiith1@gmail.com](mailto:vanessasmiith1@gmail.com) · [https://www.linkedin.com/in/vansmith1/](https://www.linkedin.com/in/vansmith1/)
