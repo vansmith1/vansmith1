@@ -1,7 +1,7 @@
 ```
 Hello! 
 I'm Vanessa. Studying Software Engineering @ RMIT University, Melbourne AUS.
-I have experience working with Python, Java, JavaScript and React.
+I have experience working with C++, Python, Java, JavaScript, TypeScript, and React.
 ```
 
 ### current work:
