@@ -13,6 +13,8 @@ I have experience working with C++, Python, Java, JavaScript, TypeScript, and Re
 
 - [Minecraft Village Generator](https://github.com/vansmith1/minecraft-village-generator) ▸ Minecraft village generator using BFS pathfinding and procedural generation techniques in C++
 
+- [Climate Data Webapp](https://github.com/vansmith1/climate-data-webapp) ▸ Climate data analytics web application built with Java, Javalin, SQL, HTML and CSS
+
 ### contact
 
 [vanessasmiith1@gmail.com](mailto:vanessasmiith1@gmail.com) · [https://www.linkedin.com/in/vansmith1/](https://www.linkedin.com/in/vansmith1/)
