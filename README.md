@@ -5,7 +5,7 @@ I have experience working with C++, Python, Java, JavaScript, TypeScript, and Re
 ```
 
 ### current work:
-- [Jeremy Smith Organ Building](https://github.com/vansmith1/organ-building-information-website) ▸ Building a website for my Dad's organ building business
+- [Jeremy Smith Organ Building](https://github.com/vansmith1/organ-building-information-website) ▸ Building a website for my Dad's organ building business -> [https://jeremysmithorganbuilder.com/](https://jeremysmithorganbuilder.com)
 
 ### projects
 
