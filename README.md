@@ -8,6 +8,7 @@ I have experience working with C++, Python, Java, JavaScript, TypeScript, and Re
 - [Jeremy Smith Organ Building](https://github.com/vansmith1/organ-building-information-website) ▸ Building a website for my Dad's organ building business -> [https://jeremysmithorganbuilder.com/](https://jeremysmithorganbuilder.com)
 
 ### projects
+- [Homelab](https://github.com/vansmith1/homelab) ▸ My personal homelab for hosting services and learning self-hosting and networking.
 
 - [Venue Vendors](https://github.com/vansmith1/Venue-Vendors) ▸ Venue Vendors Application allows hirers to browse venues, make bookings, upload compliance documents, manage their bookings, etc. Vendors can create and manage venues, review applicants and bookings, assess compliance documents and approve or reject bookings.
 
