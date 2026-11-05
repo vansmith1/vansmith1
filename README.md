@@ -6,7 +6,7 @@ I have experience working with C++, Python, Java, JavaScript, TypeScript, and Re
 
 ### current work:
 - [Jeremy Smith Organ Building](https://github.com/vansmith1/organ-building-information-website) ▸ Building a website for my Dad's organ building business -> [https://jeremysmithorganbuilder.com/](https://jeremysmithorganbuilder.com)
-- 
+
 - [Homelab](https://github.com/vansmith1/homelab) ▸ My personal homelab for hosting services and learning self-hosting and networking.
 
 ### projects
